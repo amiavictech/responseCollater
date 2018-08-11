@@ -82,3 +82,4 @@ def store_response(responseMails):
                 kid_cnt[x].value=response['kids_count']
                 break
     wb.save('ResponseStatus.xlsx')
+    print('Saved to excel')
