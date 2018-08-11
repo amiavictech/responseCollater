@@ -1,8 +1,7 @@
-# responseCollater
-# AMIA response collate app #
+# responseCollater - AMIA response collate app #
 
 ## Install python virtual environment
->virtualenv -p <path-to-python-bin folder> venv
+>virtualenv -p path-to-python-bin-folder venv
 
 ##  To activate
 >source venv/bin/activate
