@@ -15,6 +15,10 @@
 ## Install then using pip install command
 > pip install openpyxl google-api-python-client oauth2client
 
-## To run the app activate the virtual environment and issue 
+## To run the app activate the virtual environment and issue the following command
 > python init.py
 
+## To create binary file for windows or macos, issue the following commands
+>pip install pyinstaller
+
+>pyinstaller --onefile init.py
