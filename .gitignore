@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+credentials.json
+token.json
+app-macos/credentials.json
+app-macos/token.json
